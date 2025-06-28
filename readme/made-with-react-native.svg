@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245.5625" height="35" viewBox="0 0 245.5625 35">
+  <!-- Left box -->
+  <rect width="106.6625" height="35" fill="#61dafb" />
+  
+  <!-- Right box with border on top, right, bottom (no left) -->
+  <g>
+    <rect x="106.6625" width="138.9" height="35" fill="#222" />
+  </g>
+
+  <!-- Text -->
+  <text x="53.33125" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#000000" text-anchor="middle" letter-spacing="2">MADE WITH</text>
+  <text x="176.1125" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#ffffff" text-anchor="middle" font-weight="900" letter-spacing="2">REACT NATIVE</text>
+</svg>
